@@ -3,3 +3,4 @@ pandas
 serpapi
 streamlit
 google_serp_api
+matplotlib
